@@ -1,4 +1,4 @@
-from packages.Pessoa import Pessoa
+from packages.Pessoa.nometel import Pessoa
 
 class Agenda():
     
